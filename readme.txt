@@ -4,4 +4,4 @@
 Rubber cross-browser page made up using HTML5 and CSS3
 
 
-GitHub Pages - https://alsudar.github.io/Pro-1/
+View - https://pro-1.vercel.app/
